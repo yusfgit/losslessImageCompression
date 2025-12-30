@@ -16,3 +16,6 @@ By combining these methods, we effectively counteract the file size equation, de
 ## See the Demo
 
 Watch the following demo to see how app works with universal "theCameraman.png".
+
+https://github.com/user-attachments/assets/d22f69a5-aa02-4424-8c93-8d3228b04c4c
+
