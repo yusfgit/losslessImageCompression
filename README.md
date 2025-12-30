@@ -12,3 +12,7 @@ This equation implies that higher quality linearly escalates storage requirement
 * **LZW (Lempel-Ziv-Welch):** By building a dynamic dictionary of data patterns during the scan, LZW allows us to replace repeating complex structures with short references.
 
 By combining these methods, we effectively counteract the file size equation, delivering high-resolution imagery in a compact format.
+
+## See the Demo
+
+Watch the following demo to see how app works with universal "theCameraman.png".
